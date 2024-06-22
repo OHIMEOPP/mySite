@@ -109,22 +109,16 @@
 ![image](https://github.com/OHIMEOPP/mySite/blob/581a946faec0462810da539830e0ec4641be5fce/%E5%B1%95%E7%A4%BA%E5%9C%96%E7%89%87/%E6%90%9C%E5%B0%8B%E4%BB%8B%E9%9D%A2%E9%A1%AF%E7%A4%BA.png)
 
 # 資料夾mysql放置mysql資料庫檔案
-打開當前路徑下“作業.txt”，分別打出檔中前30個字元和前3行內容
-# 程式碼
-打開當前路徑下“作業.txt”
-```
-with open("作業.txt", "r") as f:
-```
-打出檔中前30個字元
-```
-    print(f.read(30))
-    f.seek(0)
-```
-打出檔中和前3行內容
-```
-    lines = f.readlines()
-    for i in lines:
-        print(i.strip())
-```
-# 實作截演示
+mysql 檔案分為四個檔案，img_data、tag_data、test_attack、user_account
 
+其中的test_attack為測試sql注入攻擊時留下的資料，因此沒有實際用途
+
+img_data
+![image](https://github.com/OHIMEOPP/mySite/blob/main/%E5%B1%95%E7%A4%BA%E5%9C%96%E7%89%87/img_data.png)
+
+tag_data
+
+![image](https://github.com/OHIMEOPP/mySite/blob/main/%E5%B1%95%E7%A4%BA%E5%9C%96%E7%89%87/tag_data.png)
+
+user_account
+![image](https://github.com/OHIMEOPP/mySite/blob/main/%E5%B1%95%E7%A4%BA%E5%9C%96%E7%89%87/user_account.png)
