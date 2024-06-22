@@ -23,4 +23,4 @@ with open("作業.txt", "r") as f:
         print(i.strip())
 ```
 # 實作截演示
-![image](https://github.com/OHIMEOPP/py/blob/main/pycode.png)
+![image](https://github.com/OHIMEOPP/mySite/blob/main/%E5%B1%95%E7%A4%BA%E5%9C%96%E7%89%87/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
