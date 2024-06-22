@@ -1,5 +1,6 @@
-# 資料夾PHPcode放置PHP、javascript、css、HTML的程式語言
-10924107 鄭裕憲
+您好，我是鄭裕憲，以下將展示目前為止，為朋友製作的圖片標籤網站
+# 資料夾PHPcode放置PHP、javascript、css、HTML的程式碼
+
 # 資料夾mysql放置mysql資料庫檔案
 打開當前路徑下“作業.txt”，分別打出檔中前30個字元和前3行內容
 # 程式碼
