@@ -8,6 +8,8 @@
 ![image](https://github.com/OHIMEOPP/mySite/blob/main/%E5%B1%95%E7%A4%BA%E5%9C%96%E7%89%87/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png)
 
 二、主畫面
+![image](https://github.com/OHIMEOPP/mySite/blob/main/%E5%B1%95%E7%A4%BA%E5%9C%96%E7%89%87/%E5%80%8B%E4%BA%BA%E4%B8%BB%E7%95%AB%E9%9D%A2.png)
+
 1.在此介面進行標籤的新增、刪除、修改，等操作。
 
 2.顯示使用者的圖片與標籤數量等資訊數量。
